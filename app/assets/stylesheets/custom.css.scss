@@ -25,7 +25,9 @@ $navbar-default-bg: black;
 
 .jumbotron {
   background-image: asset-url('New.png');
-  background-size: cover;
+  background-size: 950px;
+  background-repeat: no-repeat;
+  background-position: bottom;
   height: 550px;
 }
 
